@@ -33,4 +33,9 @@ def main():
 if __name__ == "__main__":
     main()
 # Run the script
+if __name__ == "__main__":
+    main()
+# This script will scrape a given website and print the title and all links found on the page.  
+# Make sure to install the required libraries before running this script:
+# pip install requests beautifulsoup4
 
